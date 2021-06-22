@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#8616ba</color>
+    <color name="colorPrimaryDark">#6c0ca9</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+    <color name="backgroundColor">#fffeb5</color>
+    <color name="lightPurple">#aa00ff</color>
+    <color name="primaryTextColor">#8b009b</color>
+    <color name="secondaryTextColor">#92449b</color>
+    <color name="colorOfToolbar"> #9823ff</color>
+    <color name="white">#ffffff</color>
+</resources>
